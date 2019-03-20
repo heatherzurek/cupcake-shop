@@ -1,4 +1,46 @@
 img {
-  height: 200px;
   width: 50%;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background-color: #c4eeef;
+  text-align: center;
+}
+
+.best {
+  color: #6e55b5;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 90px;
+}
+
+h2 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+}
+
+div {
+  text-align: center;
+}
+ul {
+  display: inline-block; text-align: center;
+  font-family: 'Poppins', sans-serif;
 }
